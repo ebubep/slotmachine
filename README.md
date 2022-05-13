@@ -1,6 +1,6 @@
 ## Slot Machine
 
-[[_TOC_]]
+
 
 ---
 
@@ -45,6 +45,6 @@ const BET_AMOUNT = 100;
 
 ### Unit Tests 
 1. In your favorite terminal, change directory to the src folder.
-2. Invoke the command : phpunit
+2. Invoke the command : vendor\bin\phpunit
 
 :scroll: **END** 
