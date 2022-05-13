@@ -24,9 +24,9 @@ Built with Lumen (8.3.4) (Laravel Components ^8.0)
 
 
 ### CONSTANTS
-The constants file is in App\Lib\C.php. This contains the following constants as
-stated in the requirements document.
-const BET_AMOUNT = 100;
+The constants file is in App\Lib\C.php. This contains the following constants as stated in the requirements document.
+	
+	const BET_AMOUNT = 100;
 	const MATCH3_VAL = 20/100;
 	const MATCH4_VAL = 200/100;
 	const MATCH5_VAL = 1000/100;
